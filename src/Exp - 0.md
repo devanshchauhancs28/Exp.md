@@ -15,7 +15,7 @@ This file documents the SQL statements in `EXP.sql`, describing the schema, samp
 - **Select the database**
 
   ```sql
-  USE 2cse20_0396;
+  USE 2CSE21_0588;
   ```
 
 - **Create table `DEPARTMENT`**
