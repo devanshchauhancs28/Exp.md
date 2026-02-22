@@ -1,5 +1,5 @@
 EXP1 – Basic DDL, DML, and Simple Queries
-
+ 
 - **Q1. Create `Employee_master` from `EMPLOYEE`**
 
   ```sql
